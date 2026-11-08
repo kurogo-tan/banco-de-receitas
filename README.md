@@ -26,3 +26,7 @@ O resultado estático é gerado na pasta `out/`. Não há backend, banco de dado
 ## Objetivo
 
 O projeto compartilha receitas práticas para famílias e moradores de Porto Alegre aproveitarem melhor o que já têm em casa. As receitas incluem dicas de segurança alimentar e destacam cascas, talos, folhas, sementes e sobras cozidas que podem ser usados de forma adequada.
+
+## Referências de pesquisa
+
+As ideias de aproveitamento integral foram pesquisadas em materiais públicos do Banco CEAGESP de Alimentos e em cartilhas e publicações de órgãos públicos. As receitas foram redigidas para este projeto, sem copiar textos integrais das fontes. Quando não foi encontrada uma fotografia pública que correspondesse exatamente ao prato, foi usada a ilustração local do projeto para evitar associar uma imagem de outro alimento à receita.
