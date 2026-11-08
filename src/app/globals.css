@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{color-scheme:light}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#fff7ed;color:#292524;font-family:Arial,sans-serif}a{color:inherit;text-decoration:none}button,input,select{font:inherit}.focus-ring:focus-visible,a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #4d7c0f;outline-offset:3px}.prose-recipe p{line-height:1.7}.texture{background-image:radial-gradient(rgba(249,115,22,.07) 1px,transparent 1px);background-size:18px 18px}
